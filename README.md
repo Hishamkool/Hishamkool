@@ -27,9 +27,14 @@ Here are some of the projects I've worked on:
 ## 📜 Certifications
 
 I have compiled a list of my certifications in the [Certificates](https://github.com/Hishamkool/Certificates) repository.
+
+-Flutter Development
+Luminar Technolab | May 2023 -Aug 2023
+Certificate: [www.nactetindia.org | Muhammed Hisham, 34152](https://www.nactetindia.org/search.php).
+
 -WEB Development
 CABIN4 | Aug 2019 – Feb 2020
-Certificate: [verify.cabin4.pro/v8uj](verify.cabin4.pro/v8uj) 
+Certificate: [verify.cabin4.pro/v8uj]([verify.cabin4.pro/v8uj](https://verify.cabin4.pro/v8uj)) 
 
 -Android development expert
 Luminar Technolab | 2022
@@ -37,7 +42,11 @@ Certificate: [www.nactetindia.org| Muhammed Hisham , 34152](https://www.nactetin
 
 -Introduction to Web Development
 University of California, Davis | Apr 2020
-Certificate: [coursera.org/verify/AAHQNNQEAB6R](coursera.org/verify/AAHQNNQEAB6R)
+Certificate: [coursera.org/verify/AAHQNNQEAB6R]((https://www.coursera.org/account/accomplishments/verify/AAHQNNQEAB6R))
+
+-Programming for Everybody (Getting Started with Python)
+University Of Michigan| Nov 2017 
+Certificate: : [coursera.org/verify/3SR2XMGJ8XHU](https://www.coursera.org/account/accomplishments/verify/3SR2XMGJ8XHU)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hishamkool&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
