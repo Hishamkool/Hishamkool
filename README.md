@@ -32,7 +32,7 @@ I have compiled a list of my certifications in the [Certificates](https://github
 Luminar Technolab | May 2023 -Aug 2023
 Certificate: [www.nactetindia.org | Muhammed Hisham, 34152](https://www.nactetindia.org/search.php).
 
--WEB Development
+-🕸️WEB Development
 CABIN4 | Aug 2019 – Feb 2020
 Certificate: [verify.cabin4.pro/v8uj]([verify.cabin4.pro/v8uj](https://verify.cabin4.pro/v8uj)) 
 
@@ -40,7 +40,7 @@ Certificate: [verify.cabin4.pro/v8uj]([verify.cabin4.pro/v8uj](https://verify.ca
 Luminar Technolab | 2022
 Certificate: [www.nactetindia.org| Muhammed Hisham , 34152](https://www.nactetindia.org/search.php) 
 
--Introduction to Web Development
+-🕸️Introduction to Web Development
 University of California, Davis | Apr 2020
 Certificate: [coursera.org/verify/AAHQNNQEAB6R]((https://www.coursera.org/account/accomplishments/verify/AAHQNNQEAB6R))
 
