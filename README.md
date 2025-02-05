@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 I have compiled a list of my certifications in the [Certificates](https://github.com/Hishamkool/Certificates) repository.
 -WEB Development
 CABIN4 | Aug 2019 – Feb 2020
-Certificate: []verify.cabin4.pro/v8uj 
+Certificate: [](verify.cabin4.pro/v8uj) 
 
 -Android development expert
 Luminar Technolab | 2022
