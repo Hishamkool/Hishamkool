@@ -42,7 +42,7 @@ Certificate: [www.nactetindia.org| Muhammed Hisham , 34152](https://www.nactetin
 
 -Introduction to Web Development
 University of California, Davis | Apr 2020
-Certificate: [coursera.org/verify/AAHQNNQEAB6R]((https://www.coursera.org/account/accomplishments/verify/AAHQNNQEAB6R))
+Certificate: [coursera.org/verify/AAHQNNQEAB6R](https://www.coursera.org/account/accomplishments/verify/AAHQNNQEAB6R))
 
 -Programming for Everybody (Getting Started with Python)
 University Of Michigan| Nov 2017 
