@@ -14,20 +14,30 @@
 
 Here are some of the projects I've worked on:
 
-- **Houseme**: A real estate website for buying and selling houses in your vicinity. :contentReference[oaicite:0]{index=0}
+- **Houseme**: A real estate website for buying and selling houses in your vicinity. 
 
-- **Android Sample App**: An Android application demonstrating various features and best practices. :contentReference[oaicite:1]{index=1}
+- **Android Sample App**: An Android application demonstrating various features and best practices.  
 
-- **CarShopApp for Flutter**: A Flutter application for car shopping, showcasing a user-friendly interface and seamless performance. :contentReference[oaicite:2]{index=2}
+- **CarShopApp for Flutter**: A Flutter application for car shopping, showcasing a user-friendly interface and seamless performance. 
 
-- **Firebase Authentication using MVVM**: Implemented Firebase authentication in a Flutter app following the Model-View-ViewModel architecture. :contentReference[oaicite:3]{index=3}
+- **Firebase Authentication using MVVM**: Implemented Firebase authentication in a Flutter app following the Model-View-ViewModel architecture.  
 
-- **Movie UI in Flutter**: Designed a movie-themed user interface using Flutter to enhance UI/UX design skills. :contentReference[oaicite:4]{index=4}
+- **Movie UI in Flutter**: Designed a movie-themed user interface using Flutter to enhance UI/UX design skills. 
 
 ## 📜 Certifications
 
 I have compiled a list of my certifications in the [Certificates](https://github.com/Hishamkool/Certificates) repository.
+-WEB Development
+CABIN4 | Aug 2019 – Feb 2020
+Certificate: verify.cabin4.pro/v8uj 
 
+-Android development expert
+Luminar Technolab | 2022
+Certificate: www.nactetindia.org | Muhammed Hisham , 34152
+
+-Introduction to Web Development
+University of California, Davis | Apr 2020
+Certificate: coursera.org/verify/AAHQNNQEAB6R
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hishamkool&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
