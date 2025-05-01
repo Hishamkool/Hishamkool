@@ -1,12 +1,15 @@
 # 👋 Hello, I'm Muhammed Hisham
 
-**B.Tech in Computer Science and Engineering from MES**
+**Flutter Developer**  
+**B.Tech in Computer Science and Engineering**
 
 📫 Reach me at: linkedin.hisham@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisham-ka/) 
+[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&logoColor=red&style=flat-square)](https://www.youtube.com/channel/UCh6eC6exSKUQjDRCK104p-Q)
 
+ 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -14,15 +17,19 @@
 
 Here are some of the projects I've worked on:
 
+- **CSSD**: A project related to CSSD (Central Sterile Services Department), for managing the reusable tooks in a hospital.
+  
 - **Houseme**: A real estate website for buying and selling houses in your vicinity. 
-
-- **Android Sample App**: An Android application demonstrating various features and best practices.  
 
 - **CarShopApp for Flutter**: A Flutter application for car shopping, showcasing a user-friendly interface and seamless performance. 
 
+- **Movie UI in Flutter**: Designed a movie-themed user interface using Flutter to enhance UI/UX design skills. 
+
+- **bankapp_ui in Flutter**: A user interface design for a banking application, focusing on clean and intuitive design principles.. 
+
 - **Firebase Authentication using MVVM**: Implemented Firebase authentication in a Flutter app following the Model-View-ViewModel architecture.  
 
-- **Movie UI in Flutter**: Designed a movie-themed user interface using Flutter to enhance UI/UX design skills. 
+- **Android Sample App**: An Android application demonstrating various features and best practices.  
 
 ## 📜 Certifications
 
