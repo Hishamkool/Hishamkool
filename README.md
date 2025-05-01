@@ -7,6 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisham-ka/) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:linkedin.hisham@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&logoColor=red&style=flat-square)](https://www.youtube.com/channel/UCh6eC6exSKUQjDRCK104p-Q)
 
  
@@ -19,13 +20,23 @@ Here are some of the projects I've worked on:
 
 - **CSSD**: A project related to CSSD (Central Sterile Services Department), for managing the reusable tools in a hospital.
   
-- **Houseme**: A real estate website for buying and selling houses in your vicinity. 
+- **Houseme**: A real estate website for buying and selling houses in your vicinity.
+  
+- **Roll a Dice Game**: A two-player web game built with HTML, CSS, and JavaScript where the first player to reach 100 points wins.
+  
+- **Random Password Generator**: A web page that generates secure passwords based on user-selected options like length, uppercase letters, numbers, and symbols.
+  
+- **hotel_app_flutter**: A Flutter-based application that provides UI for hotel booking functionality with modern, responsive design elements.
 
 - **CarShopApp for Flutter**: A Flutter application for car shopping, showcasing a user-friendly interface and seamless performance. 
 
-- **Movie UI in Flutter**: Designed a movie-themed user interface using Flutter to enhance UI/UX design skills. 
+- **Movie UI in Flutter**: A Netflix-style movie app interface built using Flutter, focused on delivering an engaging and modern UI experience.
+  
+- **instagramuiClone_flutter**: A clone of Instagram’s UI built with Flutter, created to practice and demonstrate social media interface designs.
 
-- **bankapp_ui in Flutter**: A user interface design for a banking application, focusing on clean and intuitive design principles.. 
+- **bankapp_ui in Flutter**: A user interface design for a banking application, focusing on clean and intuitive design principles.
+
+- **hotel_app_flutter**: A Flutter-based application that provides UI for hotel booking functionality with modern design elements.
 
 - **Firebase Authentication using MVVM**: Implemented Firebase authentication in a Flutter app following the Model-View-ViewModel architecture.  
 
