@@ -17,7 +17,7 @@
 
 Here are some of the projects I've worked on:
 
-- **CSSD**: A project related to CSSD (Central Sterile Services Department), for managing the reusable tooks in a hospital.
+- **CSSD**: A project related to CSSD (Central Sterile Services Department), for managing the reusable tools in a hospital.
   
 - **Houseme**: A real estate website for buying and selling houses in your vicinity. 
 
